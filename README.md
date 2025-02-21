@@ -6,7 +6,7 @@ Be sure to toggle "Share Theme Colors" when adding the webpage for proper themin
 
 ## Hiding URL
 
-- Enable "Allow CSS modifications" in [Vivaldi Experiments](vivaldi://experiments).
+- Enable "Allow CSS modifications" in vivaldi:experiments.
 - In Settings > Appearance, select a folder to put your CSS file
 - Create a CSS file in the folder and add this line:
 
