@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stoic Quotes</title>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stoic Quotes</title>
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+  </head>
+  <body
+    style="background: var(--colorBg); color: var(--colorFg)"
+    class="select-none h-screen flex justify-center items-center flex-col gap-4"
+  >
+    <div class="max-w-lg px-10 py-2 w-full flex flex-col gap-4">
+      <h1 class="sr-only">Stoic Quotes</h1>
+      <blockquote class="font-semibold text-xl" id="quote">Hi</blockquote>
+      <span id="author" class="italic text-right"></span>
+    </div>
+    <script src="./script.js"></script>
+  </body>
 </html>
