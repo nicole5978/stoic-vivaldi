@@ -20,7 +20,7 @@ Be sure to toggle "Share Theme Colors" when adding the webpage for proper themin
 
 ## Credit:
 
-- Vanilla JS, HTML, CSS
+- Vanilla JS & HTML
 - TailwindCSS
 - [Stoic Quotes](https://github.com/benhoneywill/stoic-quotes) by Ben Honeywill
 - [Custom dashboard widgets](https://forum.vivaldi.net/topic/101613/custom-dashboard-widgets)
