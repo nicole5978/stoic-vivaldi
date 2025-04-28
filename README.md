@@ -18,7 +18,7 @@ Be sure to toggle "Share Theme Colors" when adding the webpage for proper themin
 
 - Restart Vivaldi
 
-## Credit:
+## Credit
 
 - Vanilla JS & HTML
 - TailwindCSS
